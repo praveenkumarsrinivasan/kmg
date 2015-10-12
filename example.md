@@ -15,9 +15,9 @@ Notes:
 
 ### Age of Information
 
-- Today Internet is the <span style="color:maroon">largest repository</span> of information.
-- There are tens of <span style="color:maroon">billions</span> of static web pages and unbounded amount of dynamic web content.
-- The advent of <span style="color:maroon">Social Networks</span> has increased the amount of data in an exponential manner.
+- Today Internet is the <span style="color:yellow">largest repository</span> of information.
+- There are tens of <span style="color:yellow">billions</span> of static web pages and unbounded amount of dynamic web content.
+- The advent of <span style="color:yellow">Social Networks</span> has increased the amount of data in an exponential manner.
 
 Notes:
 - Today Internet is the largest repository of Information
@@ -31,10 +31,10 @@ Dynamic data is the data that typically on the server side. These cannot be craw
 
 ### Traditional Search Engines
 
-- Retrieves specific sets of web pages <span style="color:maroon">based on keywords</span> found in user queries.
+- Retrieves specific sets of web pages <span style="color:yellow">based on keywords</span> found in user queries.
 - Retrieves information only from the surface of the web.
-- Social Networks have imposed the challenge of handling <span style="color:maroon">real-time data</span>.
-- Processing the streams of real-time data can help enhance Search Engines, News media, and many other systems by feeding them with recent <span style="color:maroon">**knowledge**</span> about <span style="color:maroon">**current affairs**</span>.
+- Social Networks have imposed the challenge of handling <span style="color:yellow">real-time data</span>.
+- Processing the streams of real-time data can help enhance Search Engines, News media, and many other systems by feeding them with recent <span style="color:yellow">**knowledge**</span> about <span style="color:yellow">**current affairs**</span>.
 
 Notes:
 - Traditional Search Engines have primarily been based on bag of keywords words approach
@@ -63,11 +63,11 @@ Notes:
 
 ---
 
-<span style="color:maroon">Multi-Dimensional</span>
+<span style="color:yellow">Multi-Dimensional</span>
 
-<span style="color:maroon">Exploratory Search</span>
+<span style="color:yellow">Exploratory Search</span>
 
-on <span style="color:maroon">Unstructured Data</span>
+on <span style="color:yellow">Unstructured Data</span>
 
 ---
 
@@ -117,8 +117,8 @@ Notes:
 ### Multi-Domain vs Multi-Dimension Queries
 
 - All Multi-Domain queries are Multi-Dimensional in nature
-- Multi-Dimensional queries that span <span style="color:maroon">more than one domain</span> are Multi-Domain queries
-- Multi-Dimensional queries that span <span style="color:maroon">single domain</span> are not Multi-Domain queries
+- Multi-Dimensional queries that span <span style="color:yellow">more than one domain</span> are Multi-Domain queries
+- Multi-Dimensional queries that span <span style="color:yellow">single domain</span> are not Multi-Domain queries
 
 -----
 
@@ -213,8 +213,8 @@ Notes:
 ### Problem Definition
 
 - Current state-of-the-art search systems do not capture:
-    + the <span style="color:maroon">**subjective opinions**</span> and <span style="color:maroon">**recommendations of friends**</span>
-    + the recent information that require <span style="color:maroon">**contextual**</span> or <span style="color:maroon">**domain-specific expertise**</span>.
+    + the <span style="color:yellow">**subjective opinions**</span> and <span style="color:yellow">**recommendations of friends**</span>
+    + the recent information that require <span style="color:yellow">**contextual**</span> or <span style="color:yellow">**domain-specific expertise**</span>.
 
 
 Notes:
@@ -325,7 +325,7 @@ Notes:
 
 - Semantic information gathered from a wide variety of sources.
 - Contains over 570 million objects and more than 18 billion facts about and relationships
-- Knowledge Graph ontologies and the techniques to search through these ontologies are <span style="color:maroon">proprietary</span>.
+- Knowledge Graph ontologies and the techniques to search through these ontologies are <span style="color:yellow">proprietary</span>.
 - Does not answer Multi-Domain Queries.
 - Leverages the knowledge from the traditional search techniques to answer Multi-Domain Queries.
 
@@ -425,7 +425,7 @@ Notes:
 ### Key Problems
 
 - Knowledge Extraction
-    + <span style="color:maroon">Named Entity Recognition and Classification</span>
+    + <span style="color:yellow">Named Entity Recognition and Classification</span>
     + Word Sense Disambiguation
     + Textual Entailment
     + Coherence Resolution
@@ -467,7 +467,7 @@ Named Entity Recognition and Classification (NERC) on Twitter Data
 
 ### Traditional NERC Systems
 
-- Use <span style="color:maroon">structure or grammar</span> to extract Named Entities
+- Use <span style="color:yellow">structure or grammar</span> to extract Named Entities
 - Early systems relied on heuristics, while the modern system resort to machine learning
 - Challenges: training datasets, previously unseen entities
 - Supervised Learning rely on large training corpus
@@ -552,7 +552,7 @@ It is the set of Targeted Streams that influences the search result.
 ### NERC on Twitter Data
 
 - Current state-of-the-art:
-    + Usage of <span style="color:maroon">global trends</span> and <span style="color:maroon">local trends</span>
+    + Usage of <span style="color:yellow">global trends</span> and <span style="color:yellow">local trends</span>
     + Handle cases where lexical resources fail
     + Shortcomings
         + Do not classify the entity type
